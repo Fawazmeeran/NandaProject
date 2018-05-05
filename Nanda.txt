@@ -1,0 +1,16 @@
+Q10. What is Git stash drop?
+
+Begin this answer by saying for what purpose we use Git ‘stash drop’.
+
+Git ‘stash drop’ command is used to remove the stashed item. It will remove the last added stash item by default, and it can also remove a specific item if you include it as an argument.
+
+Now give an example.
+
+If you want to remove a particular stash item from the list of stashed items you can use the below commands:
+
+git stash list: It will display the list of stashed items like:
+stash@{0}: WIP on master: 049d078 added the index file
+stash@{1}: WIP on master: c264051 Revert “added file_size”
+stash@{2}: WIP on master: 21d80a5 added number to log
+
+
