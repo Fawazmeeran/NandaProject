@@ -1,4 +1,3 @@
-Q10. What is Git stash drop?
 
 Begin this answer by saying for what purpose we use Git ‘stash drop’.
 
