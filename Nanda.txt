@@ -10,6 +10,5 @@ If you want to remove a particular stash item from the list of stashed items you
 git stash list: It will display the list of stashed items like:
 stash@{0}: WIP on master: 049d078 added the index file
 stash@{1}: WIP on master: c264051 Revert “added file_size”
-stash@{2}: WIP on master: 21d80a5 added number to log
 
 
