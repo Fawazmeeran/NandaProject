@@ -1,5 +1,5 @@
 
-Begin this answer by saying for what purpose we use Git ‘stash drop’.
+
 
 Git ‘stash drop’ command is used to remove the stashed item. It will remove the last added stash item by default, and it can also remove a specific item if you include it as an argument.
 
